@@ -46,7 +46,7 @@ header nav a{
 /*elementos base*/
 .filme-principal{
     font-size: 16px;
-    background:linear-gradient(rgba(0,0,0,.50), rgba(0,0,0, .50)100%),  url('./img2/principal.jpg') ;
+    background:linear-gradient(rgba(0,0,0,.50), rgba(0,0,0, .50)100%),  url('img2/principal.jpg') ;
     height: 500px;
     background-size: cover; 
     background-position: center 0; 
